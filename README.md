@@ -2,7 +2,7 @@
 
 This is a simple project that shows how to connect Arduino with Unity. 
 
-*This project is still work in progress so be careful in using it's code*
+**This project is still work in progress so be careful in using it's code**
 
 # Versions
 
