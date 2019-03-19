@@ -1,3 +1,14 @@
-﻿{
-	"name": "gd.mateusz.arduino-unity"
+{
+    "name": "gd.mateusz.arduino-unity",
+    "references": [
+        "Sygan.ArduinoUnity"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
 }
