@@ -24,6 +24,6 @@ void loop()
     message = Serial.readString();
 
     Serial.print("Received message: ");
-    Serial.println(message);
+    Serial.println(message + "\n");
   }
 }
