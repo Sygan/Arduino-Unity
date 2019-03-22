@@ -224,6 +224,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   definition: {fileID: 11400000, guid: 4bfba3a9df2a546918e6f39c5e8ac945, type: 2}
+  _stop: 0
+  _waitTimeBetweenMessages: 1
 --- !u!4 &1646821460
 Transform:
   m_ObjectHideFlags: 0
